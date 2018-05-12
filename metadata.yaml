@@ -1,0 +1,40 @@
+_repo: An-Introduction-to-the-Prose-and-Poetical-Works-of-John-MiltonLiberty._44733
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44733-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: http://en.wikipedia.org/wiki/John_Milton
+  editor:
+    agent_name: Corson, Hiram
+    birthdate: 1828
+    deathdate: 1911
+    gutenberg_agent_id: '31707'
+    url: http://www.gutenberg.org/2009/agents/31707
+    wikipedia: http://en.wikipedia.org/wiki/Hiram_Corson
+description: ''
+gutenberg_issued: '2014-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44733'
+  lccn: '99004271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English prose literature -- Early modern, 1500-1700'
+- !lcc 'PR'
+- !lcsh 'Milton, John, 1608-1674'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- !lcsh 'Poets, English -- Early modern, 1500-1700 -- Biography'
+title: "An Introduction to the Prose and Poetical Works of John Milton\r\nComprising\
+  \ All the Autobiographic Passages in His Works, the More Explicit Presentations\
+  \ of His Ideas of True Liberty."
+url: http://www.gutenberg.org/ebooks/44733
