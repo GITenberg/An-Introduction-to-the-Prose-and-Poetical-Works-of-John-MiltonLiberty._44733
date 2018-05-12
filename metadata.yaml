@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31707
     wikipedia: http://en.wikipedia.org/wiki/Hiram_Corson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44733#An-Introduction-to-the-Prose-and-Poetical-Works-of-John-MiltonLiberty.
 gutenberg_issued: '2014-01-23'
 gutenberg_type: Text
 identifiers:
